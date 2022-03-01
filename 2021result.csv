@@ -1,0 +1,251 @@
+player_name,predicted_fp_per_game,team
+Cooper Kupp,16.61628214,LAR
+Diontae Johnson,15.87672636,PIT
+Davante Adams,15.66540035,GB
+Calvin Ridley,15.54655789,ATL
+Justin Jefferson,14.74756667,MIN
+Keenan Allen,14.7871903,LAC
+DJ Moore,14.44381395,CAR
+Stefon Diggs,14.41409623,BUF
+Tyreek Hill,13.93533915,KC
+Marquise Brown,13.7636794,BAL
+Chris Godwin,13.81981287,TB
+Antonio Brown,12.85566635,TB
+Jaylen Waddle,13.32125819,MIA
+Brandin Cooks,12.6444114,HOU
+Darnell Mooney,12.58170242,CHI
+Mike Williams,12.38359849,LAC
+A.J. Brown,12.06991143,TEN
+Kristian Wilkerson,12.3836127,NE
+Jakobi Meyers,12.13597924,NE
+Tee Higgins,11.94446504,CIN
+Robert Woods,11.99732497,LAR
+Terry McLaurin,11.8355427,WAS
+Michael Pittman Jr.,11.77610726,IND
+Deebo Samuel,11.58459306,SF
+D.K. Metcalf,11.46572217,SEA
+Sterling Shepard,11.49543989,NYG
+Ja'Marr Chase,11.56479546,CIN
+CeeDee Lamb,11.56149349,DAL
+Hunter Renfrow,11.21478674,LV
+Amon-Ra St. Brown,11.20489505,DET
+Adam Thielen,11.4030274,MIN
+DeVante Parker,11.25774077,MIA
+Jarvis Landry,10.94405371,CLE
+D.J. Chark Jr.,11.31717621,JAC
+Russell Gage,10.80868719,ATL
+Marvin Jones Jr.,11.11578453,JAC
+Mike Evans,11.10257665,TB
+Chase Claypool,10.89456682,PIT
+Cole Beasley,10.50823644,BUF
+Elijah Moore,10.51153841,NYJ
+Amari Cooper,10.78561605,DAL
+Michael Gallup,10.77571015,DAL
+Tyler Lockett,10.36299245,SEA
+Corey Davis,10.20451215,NYJ
+Robby Anderson,10.32009528,CAR
+DeAndre Hopkins,10.13850119,ARI
+Laviska Shenault Jr.,9.596992489,JAC
+Kadarius Toney,9.190850299,NYG
+DeVonta Smith,9.672966205,PHI
+Christian Kirk,9.630040608,ARI
+Tyler Boyd,9.293268196,CIN
+Odell Beckham Jr.,9.200813063,LAR
+Jamison Crowder,9.10835793,NYJ
+Courtland Sutton,9.283376503,DEN
+A.J. Green,9.329604069,ARI
+Rashod Bateman,9.025837133,BAL
+Jerry Jeudy,8.593293405,DEN
+JuJu Smith-Schuster,8.698956414,PIT
+Allen Robinson II,8.798029699,CHI
+Kenny Golladay,8.540490329,NYG
+Tim Patrick,8.590034079,DEN
+Dante Pettis,7.73812607,NYG
+Van Jefferson,8.405138028,LAR
+Emmanuel Sanders,8.335810892,BUF
+Henry Ruggs III,8.147598658,LV
+Tre'Quan Smith,8.111291213,NO
+Marquez Valdes-Scantling,7.807510062,GB
+Brandon Aiyuk,8.06837983,SF
+Marquez Callaway,7.926395162,NO
+Mecole Hardman,7.516951002,KC
+K.J. Osborn,7.678761699,MIN
+Julio Jones,7.474039619,TEN
+Danny Amendola,6.965536389,HOU
+Zay Jones,7.394806577,LV
+Rondale Moore,6.932545127,ARI
+Darius Slayton,7.14058339,NYG
+Josh Reynolds,7.190112926,DET
+Sammy Watkins,7.104261731,BAL
+Deonte Harty,6.536323058,NO
+Kalif Raymond,7.180221233,DET
+Cedrick Wilson Jr.,6.889647959,DAL
+Quintez Cephus,7.048142472,DET
+Zach Pascal,7.315616177,IND
+Nelson Agholor,7.071270469,NE
+Allen Lazard,7.10429016,GB
+Nico Collins,6.780697195,HOU
+Laquon Treadwell,6.850038545,JAC
+Gabriel Davis,6.595801144,BUF
+Donovan Peoples-Jones,6.899596509,CLE
+Kendrick Bourne,6.364677526,NE
+Ray-Ray McCloud,6.361375557,PIT
+Braxton Berrios,6.057594407,NYJ
+Antoine Wesley,6.790645745,ARI
+Cyril Grayson Jr.,6.308558267,TB
+Anthony Miller,6.166573599,PIT
+Will Fuller V,6.192989351,MIA
+Jason Moore Jr.,6.60573548,LAC
+Rashard Higgins,6.301968543,CLE
+Albert Wilson,6.044414959,MIA
+Nick Westbrook-Ikhine,6.245849284,TEN
+Byron Pringle,6.004805545,KC
+Bryan Edwards,6.397754074,LV
+T.Y. Hilton,5.836419339,IND
+Quez Watkins,6.090685169,PHI
+Adam Humphries,5.869453244,WAS
+Keelan Cole Sr.,5.866151275,NYJ
+Breshad Perriman,5.588785877,TB
+Olamide Zaccheaus,5.697765069,ATL
+Damiere Byrd,5.856259582,CHI
+Randall Cobb,5.502948896,GB
+Jalen Reagor,5.783630478,PHI
+Tyler Johnson,5.565700522,TB
+Joshua Palmer,5.166176484,LAC
+Jamal Agnew,5.053909537,JAC
+Parris Campbell,5.169478453,IND
+Kenny Stills,5.001078033,NO
+KJ Hamler,5.162874515,DEN
+Tavon Austin,4.835993796,JAC
+Trinity Benson,5.034126152,DET
+Jalen Guyton,5.063858087,LAC
+Mohamed Sanu Sr.,4.789794658,SF
+D.J. Montgomery,4.575166671,NYJ
+Tyrell Williams,5.08697187,DET
+Kirk Merritt,4.162420543,MIA
+Devin Duvernay,4.911981726,BAL
+James Washington,4.723769492,PIT
+Marquise Goodwin,4.5949927,CHI
+Jauan Jennings,4.486027722,SF
+James Proche II,4.383666682,BAL
+Phillip Dorsett II,4.136033219,HOU
+Demarcus Robinson,4.770025487,KC
+Chester Rogers,4.360581327,TEN
+Marcus Johnson,4.347373451,TEN
+Preston Williams,4.271428164,MIA
+Dez Fitzpatrick,4.38369511,TEN
+Chris Conley,4.608243219,HOU
+DeAndre Carter,4.251630564,WAS
+Tajae Sharpe,4.449748705,ATL
+Collin Johnson,3.977567134,NYG
+Juwann Winfree,4.1624774,GB
+Terrace Marshall Jr.,4.218625088,CAR
+Dyami Brown,4.066734512,WAS
+Noah Brown,4.043620729,DAL
+D'Wayne Eskridge,3.815784866,SEA
+Freddie Swain,4.155901891,SEA
+DeSean Jackson,3.696928196,LV
+Denzel Mims,3.762981791,NYJ
+KhaDarel Hodge,3.525240021,DET
+Lil'Jordan Humphrey,3.627601061,NO
+Cody Hollister,4.492716946,TEN
+Malik Turner,3.284196282,DAL
+Keith Kirkwood,3.690338472,CAR
+N'Keal Harry,3.696956624,NE
+Chris Moore,3.449308947,HOU
+John Ross,3.505442421,NYG
+Shi Smith,3.204963239,CAR
+Brandon Zylstra,3.495550728,CAR
+Kendall Hinton,3.313942432,DEN
+Geronimo Allison,3.535188571,DET
+Tarik Black,3.105932597,NYJ
+C.J. Saunders,2.973853836,CAR
+Cam Sims,3.079531059,WAS
+Jeff Smith,3.072927121,NYJ
+Mack Hollins,2.911144853,MIA
+Anthony Schwartz,2.930956667,CLE
+Isaiah Ford,2.610665672,MIA
+Curtis Samuel,2.769160185,WAS
+Isaiah McKenzie,2.647001545,BUF
+Trent Sherfield,2.703135019,SF
+Ben Skowronek,2.56445232,LAR
+Dazz Newsome,3.214940218,CHI
+Josh Gordon,2.54465472,KC
+Dax Milne,2.488521246,WAS
+Mike Thomas,2.51163503,CIN
+Chris Hogan,2.399368083,NO
+Scotty Miller,2.495139399,TB
+David Sills V,2.62721816,NYG
+Mike Strachan,2.676747695,IND
+Davion Davis,2.164942496,HOU
+Ashton Dulin,2.343263038,IND
+Equanimeous St. Brown,2.481945737,GB
+Pharoh Cooper,2.297035471,NYG
+Tom Kennedy,2.237600029,DET
+Jaelon Darden,1.881001588,TB
+Cameron Batson,2.065911854,TEN
+Kevin White,1.894209464,NO
+Jody Fortson,1.828170084,KC
+Greg Ward,1.910747738,PHI
+Jakeem Grant Sr.,1.636684309,CHI
+Willie Snead IV,1.484793734,CAR
+Dede Westbrook,1.623490647,MIN
+Penny Hart,1.488109917,SEA
+Christian Blake,1.488109917,ATL
+Auden Tate,1.85132651,CIN
+C.J. Board,1.597074895,NYG
+Ja'Marcus Bradley,1.811702882,CLE
+Racey McMath,1.554149298,TEN
+Ihmir Smith-Marsette,1.544243391,MIN
+Trenton Irwin,1.606980802,CIN
+Cody White,1.531035514,PIT
+Seth Williams,2.577759696,DEN
+Dezmon Patmon,1.471600072,IND
+Travis Benjamin,1.34282328,SF
+Isaiah Coulter,1.620188678,CHI
+John Brown,1.299897683,JAC
+Frank Darby,1.266877992,ATL
+Vyncint Smith,1.521129607,NYJ
+Rodney Adams,1.488109917,CHI
+Devin Smith,1.455090227,JAC
+Marvin Hall,1.323011466,ATL
+David Moore,1.223952395,GB
+Keke Coutee,1.289991775,IND
+Tommylee Lewis,1.20744255,MIA
+Jake Kumerow,1.319723711,BUF
+Trent Taylor,1.16784735,CIN
+J.J. Arcega-Whiteside,1.313148202,PHI
+Tyron Johnson,0.982951299,LV
+Tylan Wallace,0.821169031,BAL
+Greg Dortch,0.854188721,ARI
+Amari Rodgers,0.708916298,GB
+KJ Hill Jr.,0.573535568,LAC
+Miles Boykin,0.613159197,BAL
+Stanley Morgan Jr.,0.728742327,CIN
+Marcus Kemp,0.524020247,KC
+Malik Taylor,0.494302526,GB
+Diontae Spencer,0.352332072,DEN
+Jaydon Mickens,0.309406475,JAC
+Andy Isabella,0.441485236,ARI
+Tyrie Cleveland,0.3919557,DEN
+Easop Winston Jr.,0.388653731,NO
+Gunner Olszewski,0.23677737,NE
+Alex Erickson,0.216965556,CAR
+Andre Roberts,0.038673443,LAC
+Alex Bachman,0.250013675,NYG
+Jordan Veasy,0.23350383,HOU
+Jalen Camp,0.563700733,HOU
+Matthew Slater,-0.123108825,NE
+Michael Bandy,0.167464449,LAC
+Tutu Atwell,-0.123108825,LAR
+Antonio Gandy-Golden,0.035385688,WAS
+Marquez Stevenson,-0.123108825,BUF
+Dan Chisena,-0.080183228,MIN
+Dillon Stoner,-0.080183228,LV
+Brandon Powell,-0.146222608,LAR
+Mason Kinsey,-0.063673382,TEN
+Daurice Fountain,-0.096693073,KC
+John Hightower,-0.096693073,PHI
+Maurice Ffrench,-0.129712763,LAC
+Cody Thompson,-0.146222608,SEA
+Nsimba Webster,-0.156128515,CHI
