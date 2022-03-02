@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nflfantasy
+spec:
+  selector:
+    matchLabels:
+      run: nflfantasy
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        run: nflfantasy
+    spec:
+      containers:
+      - name: nflfantasy
+        image: asukaz/nflfantasy:0.1
+        ports:
+        - containerPort: 8080
+
